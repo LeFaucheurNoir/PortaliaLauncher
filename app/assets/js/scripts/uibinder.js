@@ -95,7 +95,7 @@ async function showMainUI(data){
                 $(VIEWS.loginOptions).fadeIn(1000)
             }
         }
-
+        // Find a way to create a pause for a more longer loading for pub
         setTimeout(() => {
             $('#loadingContainer').fadeOut(500, () => {
                 $('#loadSpinnerImage').removeClass('rotating')
