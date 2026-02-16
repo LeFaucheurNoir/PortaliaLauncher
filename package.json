@@ -5,9 +5,9 @@
   "description": "Portalia Studio Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/) et LeFaucheurNoir",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/Portalia/Portalia",
+  "homepage": "https://github.com/Portalia/PortaliaLauncher",
   "bugs": {
-    "url": "https://github.com/Portalia/Portalia/issues"
+    "url": "https://github.com/Portalia/PortaliaLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Portalia/Portalia.git"
+    "url": "git+https://github.com/Portalia/PortaliaLauncher.git"
   }
 }
