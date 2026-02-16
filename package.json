@@ -1,13 +1,13 @@
 {
   "name": "PortaliaLauncher",
-  "version": "2.0.10",
+  "version": "2.0.11",
   "productName": "Portalia Studio Launcher",
   "description": "Portalia Studio Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/) et LeFaucheurNoir",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/LeFaucheurNoir/PortaliaLauncherFinal",
+  "homepage": "https://github.com/LeFaucheurNoir/PortaliaLauncher",
   "bugs": {
-    "url": "https://github.com/LeFaucheurNoir/PortaliaLauncherFinal/issues"
+    "url": "https://github.com/LeFaucheurNoir/PortaliaLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -47,6 +47,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LeFaucheurNoir/PortaliaLauncherFinal.git"
+    "url": "git+https://github.com/LeFaucheurNoir/PortaliaLauncher.git"
   }
 }
