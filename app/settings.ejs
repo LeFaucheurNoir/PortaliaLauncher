@@ -116,7 +116,7 @@
                 </div>
             </div>
         </div>
-        <div id="settingsTabMods" class="settingsTab" style="display: none;">
+        <div id="settingsTabMods" class="settingsTab">
             <div class="settingsTabHeader">
                 <span class="settingsTabHeaderText">Paramètres des mods</span>
                 <span class="settingsTabHeaderDesc">Activer ou désactiver les mods</span>
@@ -131,6 +131,18 @@
                     </div>
                 </div>
             </div>
+                <div id="settingsShadersContainer">
+                    <div class="settingsModsHeader">Shaderpacks</div>
+                    <div id="settingsShaderpackDesc">Activer ou désactiver les shaders.</div>
+                    <div id="settingsShaderpackWrapper">
+                        <button id="settingsShaderpackButton"> + </button>
+                        <div class="settingsSelectContainer">
+                            <div class="settingsSelectSelected" id="settingsShadersSelected">Choisir un Shaderpack</div>
+                            <div class="settingsSelectOptions" id="settingsShadersOptions">
+                            </div>
+                        </div>
+                    </div>
+                </div>
             <div id="settingsModsContainer">
                 <div id="settingsOptModsContainer">
                     <div class="settingsModsHeader">Mods optionnels</div>
@@ -146,19 +158,6 @@
                     <div class="settingsModsHeader" hidden>Drop-in Mods</div>
                     <button id="settingsDropinFileSystemButton" hidden>+ Ajouter des mods <span id="settingsDropinRefreshNote">(F5 pour rafraichir)</span></button>
                     <div id="settingsDropinModsContent" hidden>  
-                    </div>
-                </div>
-                <div id="settingsShadersContainer">
-                    <div class="settingsModsHeader">Shaderpacks</div>
-                    <div id="settingsShaderpackDesc">Activer ou désactiver les shaders.</div>
-                    <div id="settingsShaderpackWrapper">
-                        <button id="settingsShaderpackButton"> + </button>
-                        <div class="settingsSelectContainer">
-                            <div class="settingsSelectSelected" id="settingsShadersSelected">Choisir un Shaderpack</div>
-                            <div class="settingsSelectOptions" id="settingsShadersOptions">
-
-                            </div>
-                        </div>
                     </div>
                 </div>
             </div>
