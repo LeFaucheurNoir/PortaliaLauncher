@@ -1,5 +1,5 @@
 appId: 'PortaliaLauncher'
-productName: 'Portalia Studio Launcher 2.0.17'
+productName: 'Portalia Studio Launcher 2.0.18'
 artifactName: 'Portalia.Studio.Launcher-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2026 LeFaucheurNoir'
